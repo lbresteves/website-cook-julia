@@ -5,5 +5,6 @@ tools:
 - HTML
 - CSS
 - Flex-box
+- @media (website in mobile version) 
 
 ### Made by: Letícia Esteves 
